@@ -18,5 +18,5 @@ Unknown: 2
 
 
 
-Analysis.r: contains all statitiscla analyses conducted in my research paper. There are four main parts of the code: 1. The Intial Analysis of data and mean/count calculations. It calculates the mean years between conviction and exoneration by sex, race, and many other varibales.2.  The Linear Regresson Model used in the paper. 3. Analyis of the Impact of a law allowing post-conviction DNA testing using t tests for each race. 4. Graphs
+Analysis.r: contains statistical analyses conducted in my research paper. There are four main parts of the code: 1. The Intial Analysis of data and mean/count calculations. It calculates the mean years between conviction and exoneration by sex, race, and many other varibales.2.  The Linear Regresson Model used in the paper. 3. Analyis of the Impact of a law allowing post-conviction DNA testing using t tests for each race. 4. Graphs
 
